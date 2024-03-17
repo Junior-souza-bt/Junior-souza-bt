@@ -3,7 +3,7 @@
 
 <p  align="center">✅ Gosto de Solucionar desafios <br><br> desde o desenvolvimento backend usando PHP até o desenvolvimento frontend usando ReactTS, sou <strong>apaixonado por descobrir coisas novas</strong> e usá-las para criar soluções de alta qualidade. Hoje sou um <strong>Freelancer</strong> focado em desenvolvimento web.</p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px" display="flex">
+<div align="center" style="margin-bottom:100px" display="flex">
 <img width=55% align="center" src="https://github-readme-stats.vercel.app/api?username=Junior-souza-bt&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false" /> 
 <img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Junior-souza-bt&theme=chartreuse-dark&hide_border=false" />
 <img width=55% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junior-souza-bt&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /> 
@@ -24,7 +24,7 @@
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-<img src="https://i.pinimg.com/originals/27/92/2f/27922f80e272e53f5187ab355a3d9817.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">&nbsp;
+<img src="https://i.pinimg.com/originals/e8/d5/a3/e8d5a3b3a383211eb74d02a26115defa.gif" min-width="300px" max-width="300px" width="400px" align="right" alt="Computador iuriCode">&nbsp;
 
 #### 📁 Tecnologias Secundárias:
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)&nbsp;
@@ -32,9 +32,12 @@
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)&nbsp;
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)&nbsp;
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
+![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)&nbsp;
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)&nbsp;
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)&nbsp;
 ![PowerShell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)&nbsp;
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
+![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
 
 
 #### 💾 SGBDs:
